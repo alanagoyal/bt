@@ -278,6 +278,7 @@ async fn run_eval_files_once(
 
     let mut retried_esm = false;
     if !attempt.output.status.success()
+        && runner_override.is_none()
         && should_retry_esm(
             language,
             attempt.is_tsx_runner,
