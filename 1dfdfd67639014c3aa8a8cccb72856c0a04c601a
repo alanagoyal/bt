@@ -1,0 +1,23 @@
+src/eval.rs
+  9a16f952b1505fd9 225-228,234-237,242,247-250,257-259,266-269,275-278,283,287,291
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.5",
+  "base_commit_sha": "1dfdfd67639014c3aa8a8cccb72856c0a04c601a",
+  "prompts": {
+    "9a16f952b1505fd9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019c97ef-c200-79b1-95d2-e02ef2984518",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "alanagoyal <alanaan@gmail.com>",
+      "messages": [],
+      "total_additions": 41,
+      "total_deletions": 10,
+      "accepted_lines": 27,
+      "overriden_lines": 0
+    }
+  }
+}
