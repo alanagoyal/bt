@@ -1,0 +1,23 @@
+README.md
+  1512d64f9ad48140 81-83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.5",
+  "base_commit_sha": "d0af234b68233e250212c01ccdd47e422c3417b8",
+  "prompts": {
+    "1512d64f9ad48140": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ca0f7-ba52-71a2-a640-5e7e82fc4b5d",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "alanagoyal <alanaan@gmail.com>",
+      "messages": [],
+      "total_additions": 20,
+      "total_deletions": 17,
+      "accepted_lines": 4,
+      "overriden_lines": 0
+    }
+  }
+}
